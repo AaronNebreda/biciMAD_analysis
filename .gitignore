@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 data_raw
+data
 
 # C extensions
 *.so
